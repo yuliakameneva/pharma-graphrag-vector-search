@@ -1,0 +1,55 @@
+{
+  "started_utc": "2026-10-20T07:27:04.102Z",
+  "ended_utc": "2026-10-20T07:29:14.211Z",
+  "csv": "docker_resources_20261020T072704Z.csv",
+  "collection_method": "docker stats --no-stream",
+  "baseline_samples_requested": 4,
+  "samples_by_phase": {
+    "baseline": 4,
+    "load": 60
+  },
+  "services": {
+    "neo4j": {
+      "baseline": {
+        "n": 4,
+        "mean_cpu_pct": 2.337,
+        "peak_cpu_pct": 4.33,
+        "mean_mem_mib": 740.7,
+        "peak_mem_mib": 740.7
+      },
+      "load": {
+        "n": 60,
+        "mean_cpu_pct": 6.892,
+        "peak_cpu_pct": 85.76,
+        "mean_mem_mib": 750.668,
+        "peak_mem_mib": 766.7
+      },
+      "delta_mean_cpu_pct": 4.555,
+      "delta_mean_mem_mib": 9.968
+    },
+    "qdrant": {
+      "baseline": {
+        "n": 4,
+        "mean_cpu_pct": 0.378,
+        "peak_cpu_pct": 0.48,
+        "mean_mem_mib": 63.867,
+        "peak_mem_mib": 63.88
+      },
+      "load": {
+        "n": 60,
+        "mean_cpu_pct": 2.43,
+        "peak_cpu_pct": 20.82,
+        "mean_mem_mib": 65.664,
+        "peak_mem_mib": 71.31
+      },
+      "delta_mean_cpu_pct": 2.052,
+      "delta_mean_mem_mib": 1.797
+    }
+  },
+  "limitations": [
+    "The load phase includes any waiting between the baseline and the Windows benchmark command, and before Ctrl+C.",
+    "CPU% is as reported by docker stats (can exceed 100% on multicore systems).",
+    "Container memory excludes the Windows Python client and may include Docker memory accounting specifics.",
+    "CPU/RAM was sampled externally; peaks between samples may be missed."
+  ]
+}

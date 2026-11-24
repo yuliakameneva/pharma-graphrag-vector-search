@@ -1,0 +1,23 @@
+{
+  "status": "DRAFT_ONLY_NOT_BENCHMARK_SCORES",
+  "queries_total": 30,
+  "categories": {
+    "semantic": 8,
+    "structural": 7,
+    "strict": 10,
+    "multi_hop": 5
+  },
+  "corpus_drugs": 25,
+  "verified_claims": 20,
+  "gold_approved": 0,
+  "retrieval_unit": "distinct Drug ID",
+  "source_of_proposals": "Neo4j-import JSONL + locally verified annotations",
+  "limitations": [
+    "The 8 semantic questions require human review of all potentially relevant drug labels.",
+    "Graph-derived candidates are not independent ground truth and may omit true relevant labels.",
+    "Several questions share underlying source chunks; benchmark cases are correlated.",
+    "Only explicitly documented interactions can be negated within the reviewed interaction subset.",
+    "No Precision@k/Recall@k should be reported until gold_drug_ids have been manually adjudicated.",
+    "This is a retrieval benchmark, not clinical treatment or drug-safety advice."
+  ]
+}

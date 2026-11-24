@@ -1,0 +1,35 @@
+{
+  "actual_label_count": 25,
+  "total_chunks": 1072,
+  "nodes_total": 1368,
+  "edges_total": 1384,
+  "node_types": {
+    "ActiveIngredient": 33,
+    "AdministrationRoute": 3,
+    "Contraindication": 11,
+    "Drug": 25,
+    "DrugClass": 24,
+    "DrugLabel": 25,
+    "InteractionTarget": 8,
+    "TextChunk": 1072,
+    "TextSection": 167
+  },
+  "edge_types": {
+    "ADMINISTERED_VIA": 26,
+    "BELONGS_TO_CLASS": 36,
+    "HAS_ACTIVE_INGREDIENT": 38,
+    "HAS_CHUNK": 1072,
+    "HAS_CONTRAINDICATION": 11,
+    "HAS_LABEL": 25,
+    "HAS_SECTION": 167,
+    "INTERACTS_WITH": 9
+  },
+  "verified_constraint_claims": 20,
+  "source_retrieved_at": "2026-10-16T13:02:20.507049+00:00",
+  "chunking": {
+    "unit": "words",
+    "size": 150,
+    "overlap": 30
+  },
+  "reproducibility_note": "Every edge is supported by metadata or explicitly reviewed chunk quotation."
+}

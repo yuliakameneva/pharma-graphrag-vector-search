@@ -1,0 +1,30 @@
+{
+  "total_questions": 30,
+  "approved": 30,
+  "rejected": 0,
+  "pending": 0,
+  "semantic_questions_still_require_full_corpus_review": [],
+  "counts_by_category_and_status": [
+    {
+      "category": "multi_hop",
+      "status": "approved",
+      "count": 5
+    },
+    {
+      "category": "semantic",
+      "status": "approved",
+      "count": 8
+    },
+    {
+      "category": "strict",
+      "status": "approved",
+      "count": 10
+    },
+    {
+      "category": "structural",
+      "status": "approved",
+      "count": 7
+    }
+  ],
+  "warning": "Manual source-snapshot text relevance only, not medical or external gold adjudication."
+}

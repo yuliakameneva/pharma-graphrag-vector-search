@@ -1,0 +1,6 @@
+# Python dependencies used by scripts/01–17 on Windows.
+# Python >=3.10; tested workload was run on Windows + WSL2/Docker.
+requests>=2.31,<3
+neo4j>=5.25,<7
+fastembed>=0.4,<1
+psutil>=5.9,<8

@@ -1,0 +1,18 @@
+{
+  "queries": 30,
+  "categories": {
+    "semantic": 8,
+    "structural": 7,
+    "strict": 10,
+    "multi_hop": 5
+  },
+  "raw_label_count": 25,
+  "source_evidence_integrity_failures": [],
+  "question_blocking_mismatches": 0,
+  "gold_approved_by_script": 0,
+  "important": "Draft consistency checks are NOT independent human gold adjudication. No Precision@k/Recall@k calculated.",
+  "written_files": [
+    "benchmark/audit_questions.csv",
+    "benchmark/review_packet.md"
+  ]
+}

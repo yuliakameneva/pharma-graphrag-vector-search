@@ -1,0 +1,51 @@
+﻿query_id,drug_id,drug_name,old_decision,evidence_supported_decision,action,source_evidence_or_rationale
+Q07,DRUG:03c0ec8d-9daf-43e8-8a4e-a2ddc3573ca7,LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:062800b1-790a-41c3-a8be-94143d2c7fb6,OMEPRAZOLE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:0696b10c-972b-9dcf-e063-6294a90a1034,PANTOPRAZOLE SODIUM,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:0cffbc96-7a02-4538-9966-b69249be6eb2,LEVOTHYROXINE SODIUM,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:10db92f9-2300-4a80-836b-673e1ae91610,RIVAROXABAN,yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:1127a41b-14a1-4fe8-ae37-67ea5d760301,AMOXICILLIN AND CLAVULANATE POTASSIUM,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:14124e56-77ba-426d-8f5a-dbe42eda1a20,AMLODIPINE AND ATORVASTATIN,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:14d98490-4f8f-4d2f-a4e9-7a3d7a0199ba,ALOGLIPTIN AND METFORMIN HYDROCHLORIDE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:15a34df5-e48f-4570-9232-80e4093c4624,"BUTALBITAL, ACETAMINOPHEN, CAFFEINE AND CODEINE PHOSPHATE",yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:15b438b4-4874-43f4-a50a-4e6f3e5530ac,TELMISARTAN AND AMLODIPINE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:167d8b87-506c-4293-9579-563feaa71583,GABAPENTIN,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:1806dadd-9ebb-46ee-9b86-f153e6db3b48,METOPROLOL SUCCINATE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:1b72ecfd-a08d-48c5-a853-d3bc9ff882f1,VALSARTAN AND HYDROCHLOROTHIAZIDE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:1eaa7790-f1a1-4f51-b10a-cbbaf033f684,IBUPROFEN,yes,yes,KEEP,interference with the antiplatelet activity of aspirin
+Q07,DRUG:23899405-007b-48d9-82a9-a530b8e90784,FLUOXETINE HYDROCHLORIDE,yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:2794b60d-d09b-4115-9ff2-07ff15524e78,NAPROXEN SODIUM,yes,yes,KEEP,interfered with the antiplatelet effect of low-dose immediate-release aspirin
+Q07,DRUG:33ebf3f2-cd71-4d8b-ac22-1a20a068a13d,LISINOPRIL,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:39fd32f2-6bb7-4a65-d298-e48d26bc80c7,FUROSEMIDE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:463c7cd2-c973-5c6c-e063-6394a90a09a0,PREDNISONE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:47d1e4c5-f669-4aca-9e8c-0d6bb833b859,CIPROFLOXACIN HYDROCHLORIDE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:4cd07a3c-9673-4aa0-b76a-d79df2399ee1,CLOPIDOGREL BISULFATE,yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:4da914d0-629e-4766-b57f-6119fa8283cf,SERTRALINE HYDROCHLORIDE,yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:52a46269-2262-4052-a3ff-5455523f591f,EZETIMIBE AND SIMVASTATIN,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:724b0061-f42a-4008-a078-09c800ee9785,WARFARIN SODIUM,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q07,DRUG:95a33c9b-79a6-47c7-8433-fc217950b88f,"BUTALBITAL, ASPIRIN, CAFFEINE AND CODEINE PHOSPHATE",yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:03c0ec8d-9daf-43e8-8a4e-a2ddc3573ca7,LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:062800b1-790a-41c3-a8be-94143d2c7fb6,OMEPRAZOLE,yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:0696b10c-972b-9dcf-e063-6294a90a1034,PANTOPRAZOLE SODIUM,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:0cffbc96-7a02-4538-9966-b69249be6eb2,LEVOTHYROXINE SODIUM,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:10db92f9-2300-4a80-836b-673e1ae91610,RIVAROXABAN,yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:1127a41b-14a1-4fe8-ae37-67ea5d760301,AMOXICILLIN AND CLAVULANATE POTASSIUM,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:14124e56-77ba-426d-8f5a-dbe42eda1a20,AMLODIPINE AND ATORVASTATIN,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:14d98490-4f8f-4d2f-a4e9-7a3d7a0199ba,ALOGLIPTIN AND METFORMIN HYDROCHLORIDE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:15a34df5-e48f-4570-9232-80e4093c4624,"BUTALBITAL, ACETAMINOPHEN, CAFFEINE AND CODEINE PHOSPHATE",yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:15b438b4-4874-43f4-a50a-4e6f3e5530ac,TELMISARTAN AND AMLODIPINE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:167d8b87-506c-4293-9579-563feaa71583,GABAPENTIN,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:1806dadd-9ebb-46ee-9b86-f153e6db3b48,METOPROLOL SUCCINATE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:1b72ecfd-a08d-48c5-a853-d3bc9ff882f1,VALSARTAN AND HYDROCHLOROTHIAZIDE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:1eaa7790-f1a1-4f51-b10a-cbbaf033f684,IBUPROFEN,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:23899405-007b-48d9-82a9-a530b8e90784,FLUOXETINE HYDROCHLORIDE,yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:2794b60d-d09b-4115-9ff2-07ff15524e78,NAPROXEN SODIUM,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:33ebf3f2-cd71-4d8b-ac22-1a20a068a13d,LISINOPRIL,yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:39fd32f2-6bb7-4a65-d298-e48d26bc80c7,FUROSEMIDE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:463c7cd2-c973-5c6c-e063-6394a90a09a0,PREDNISONE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:47d1e4c5-f669-4aca-9e8c-0d6bb833b859,CIPROFLOXACIN HYDROCHLORIDE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:4cd07a3c-9673-4aa0-b76a-d79df2399ee1,CLOPIDOGREL BISULFATE,yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:4da914d0-629e-4766-b57f-6119fa8283cf,SERTRALINE HYDROCHLORIDE,no,no,KEEP,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:52a46269-2262-4052-a3ff-5455523f591f,EZETIMIBE AND SIMVASTATIN,yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.
+Q08,DRUG:724b0061-f42a-4008-a078-09c800ee9785,WARFARIN SODIUM,yes,yes,KEEP,"Inhibitors of CYP2C9, 1A2, and/or 3A4 have the potential to increase the effect (increase INR) of warfarin"
+Q08,DRUG:95a33c9b-79a6-47c7-8433-fc217950b88f,"BUTALBITAL, ASPIRIN, CAFFEINE AND CODEINE PHOSPHATE",yes,no,CORRECT,No direct evidence of THIS exact proposition in indexed label sections; related mentions do not qualify.

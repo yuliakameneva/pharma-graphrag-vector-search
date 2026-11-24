@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+data/raw/*.json
+data/processed/*.jsonl
+data/processed/*.csv
+data/processed/*.json
